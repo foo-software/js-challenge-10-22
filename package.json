@@ -1,0 +1,27 @@
+{
+  "name": "@foo-software/js-challenge-10-22",
+  "version": "0.0.1",
+  "description": "Foo's JavaScript Challenge",
+  "engines": {
+    "node": ">= 16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foo-software/js-challenge-10-22.git"
+  },
+  "type": "module",
+  "keywords": [
+    "JavaScript challenge",
+    "JavaScript competition",
+    "JavaScript",
+    "foo",
+    "foo.software"
+  ],
+  "homepage": "https://github.com/foo-software/js-challenge-10-22#readme",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

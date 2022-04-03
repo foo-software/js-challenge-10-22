@@ -10,6 +10,16 @@ In a nutshell, participants will register online in advance to redeem an entry c
 
 A practice version of the challenge is available in the [`practice`](https://github.com/foo-software/js-challenge-10-22/tree/practice) branch. The real challenge will follow the exact format of the [`practice`](https://github.com/foo-software/js-challenge-10-22/tree/practice) branch.
 
+# Prepare
+
+After registering for the challenge, the following steps should be done in advance.
+
+- Read through the [rules on www.foo.software](https://www.foo.software).
+- Fork this repo as a private repo so at the time of the event you'll only need to sync and pull. Make sure the fork is [correctly configured](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork).
+- Make sure you know [how to sync a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork), so that you're ready to go when this repo is updated at the time of the event. It's recommended to try a sync beforehand to avoid problems at the time of the event.
+- Make sure you have a Node version at least version 16 installed on your computer. Use a Node.js version manager like [`n`](https://www.npmjs.com/package/n) if you need to switch between versions.
+- In your private fork, checkout the [`practice`](https://github.com/foo-software/js-challenge-10-22/tree/practice) branch locally and make sure you're able to run tests by following the steps in the below section.
+
 # Doing the Challenge
 
 See the [`practice`](https://github.com/foo-software/js-challenge-10-22/tree/practice) branch to see the format of the actual challenge. The repo will contain 5 directories that will each contain an `index.js` file with an empty function to be populated by participants, a `README.md` file to explain the challenge and an `index.test.js` test file. The only files participants should change are the `index.js` files in each of the 5 directories. Participants should populate the empty function in each `index.js` file.

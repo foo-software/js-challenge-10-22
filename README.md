@@ -19,7 +19,7 @@ See the [`example`](https://github.com/foo-software/js-challenge-10-22/tree/exam
 
 The only files participants should change are the `index.js` files in each of the 5 directories. Participants should populate the empty function in each `index.js` file. You may add functions called within the main function as needed.
 
-Steps:
+#### Steps
 
 1. `npm install`
 2. Populate functions in each of the 5 directory `index.js` files.

@@ -12,6 +12,7 @@ At exactly 12pm on October 15th, this project will be updated with the real chal
 - Make sure you know [how to sync a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork), so that you're ready to go when this repo is updated at the time of the event. It's recommended to try a sync beforehand to avoid problems at the time of the event.
 - Make sure you have a Node.js version at least 16 installed on your computer. Use a Node.js version manager like [`n`](https://www.npmjs.com/package/n) if you need to switch between versions.
 - In your private fork, checkout the [`example`](https://github.com/foo-software/js-challenge-10-22/tree/example) branch locally and make sure you're able to run tests by following the steps in the below section.
+- Utilize websites like [LeetCode](https://leetcode.com/problemset/algorithms/) to practice JavaScript challenges. Remember, we'll be testing for general programming skills including algorithms, data structures and problem solving.
 
 # Doing the Challenge
 

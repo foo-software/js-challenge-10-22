@@ -4,6 +4,17 @@ On October 15th, 2022 at 12pm EST Foo will be holding a JavaScript competition! 
 
 At exactly 12pm on October 15th, this project will be updated with the real challenges. Until then, see the [`example`](https://github.com/foo-software/js-challenge-10-22/tree/example) branch to see the format. Refer to the official [competition terms and conditions](https://www.foo.software/javascript-challenge-2022-terms) for specific details on how to participate.
 
+# This Branch
+
+This branch holds an example structure of the competition. You can practice by creating a fork of this project and an `example` branch based on this one.
+
+In this branch you will find 5 directories named 1 - 5. Each represents a challenge. In this example branch, only #1 includes a real challenge. You can use this to practice. Try running the tests per instructions for [doing the challenge](#doing-the-challenge) below. You should see that 1 test suite fails with output similar to the below. On the day of the competition, when you pull the main branch with the real challenges - all tests will fail initially and the goal will be to make them pass. As practice, you can work through #1 to populate the function and make tests pass.
+
+```
+Test Suites: 1 failed, 4 passed, 5 total
+Tests:       3 failed, 4 passed, 7 total
+```
+
 # Prepare
 
 - Make sure you've registered and read through the [competition terms and conditions](https://www.foo.software/javascript-challenge-2022-terms).

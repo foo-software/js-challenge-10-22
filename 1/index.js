@@ -1,5 +1,7 @@
-export default function challenge1() {
-  // in the real challenge, this function will be empty and
-  // tests will fail
-  return 1;
-}
+/**
+ * @param {string} s
+ * @return {number}
+ */
+export default function lengthOfLongestSubstring(s) {
+  // code here
+};

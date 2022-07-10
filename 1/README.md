@@ -1,6 +1,6 @@
 # Challenge 1: Longest Substring Without Repeating Characters
 
-> Given a string `s`, find the length of the longest substring without repeating characters.
+Given a string `s`, find the length of the longest substring without repeating characters.
 
 #### Test 1:
 
@@ -14,7 +14,7 @@
 - **Output**: `1`
 - **Explanation**: The answer is `"b"`, with the length of `1`.
 
-#### Example 3:
+#### Test 3:
 
 - **Input**: `"pwwkew"`
 - **Output**: `3`
